@@ -1,0 +1,9 @@
+path: ../dataset #알맞은 경로 지정
+train: images #알맞은 경로 지정
+val: images #알맞은 경로 지정
+
+# Classes
+names:
+  0: seat
+  1: chair
+  2: person
